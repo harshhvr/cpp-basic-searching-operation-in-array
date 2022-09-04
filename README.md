@@ -4,6 +4,8 @@ Basic searching operation on array in C++
 
 ## Table of Contents
 
+- [Searching Operation in C++](#searching-operation-in-c)
+  - [Table of Contents](#table-of-contents)
   - [Linear Search](#linear-search)
   - [Binary Search](#binary-search)
 
